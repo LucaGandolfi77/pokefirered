@@ -187,37 +187,36 @@ gPikachuIntro_Text_Page3::
     .string "adventure begin!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Hey Cammel!\n"
+    .string "Piacere di conoscerti!\p"
+    .string "Benvenuto nel mondo di Salso e Fidenza!\p"
+    .string "Il mio nome è LUCA ZHENG.\p"
+    .string "La gente mi chiama affettuosamente\n"
+    .string "PROFESSORE ALCOL.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "Questo mondo…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…è abitato in lungo e in largo da\n"
+    .string "creature chiamate POKéMON.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Per alcuni, i POKéMON sono baristi.\n"
+    .string "Altri li usano per giocare alle slot.\p"
+    .string "Quanto a me…\p"
+    .string "Bevo con POKéMON come professione.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Ma prima, dimmi un po' di te.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "Iniziamo con il tuo nome.\n"
+    .string "Qual è?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Giusto…\n"
+    .string "Quindi il tuo nome è {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
     .string "This is my grandson.\p"
